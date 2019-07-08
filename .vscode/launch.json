@@ -4,6 +4,27 @@
             "type": "java",
             "name": "CodeLens (Launch) - Application",
             "request": "launch",
+            "mainClass": "pricing.Application",
+            "projectName": "javaspringsboot"
+        },
+        {
+            "type": "java",
+            "name": "total - Application",
+            "request": "launch",
+            "mainClass": "total.Application",
+            "projectName": "javaspringsboot"
+        },
+        {
+            "type": "java",
+            "name": "item app - Application",
+            "request": "launch",
+            "mainClass": "item.Application",
+            "projectName": "javaspringsboot"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
             "mainClass": "hello.Application",
             "projectName": "javaspringsboot"
         }

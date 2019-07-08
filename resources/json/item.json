@@ -1,0 +1,42 @@
+[
+{
+        "id": 1,
+        "name": "iphone8",
+        "price": 1002
+    },
+    {
+        "id": 2,
+        "name": "sumsung",
+        "price": 1050
+    },
+    {
+        "id": 3,
+        "name": "vivo",
+        "price": 1120
+    },
+    {
+        "id": 4,
+        "name": "oppo",
+        "price": 1010
+    },
+    {
+        "id": 5,
+        "name": "ipad",
+        "price": 1001
+    },
+    {
+        "id": 6,
+        "name": "iphoneX",
+        "price": 1003
+    },
+    {
+        "id": 7,
+        "name": "iphoneXS",
+        "price": 1004
+    },
+    {
+        "id": 8,
+        "name": "iphone9",
+        "price": 1005
+    }
+]
