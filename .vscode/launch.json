@@ -2,16 +2,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Application",
+            "name": "total (Launch) - Application",
             "request": "launch",
             "mainClass": "pricing.Application",
-            "projectName": "javaspringsboot"
-        },
-        {
-            "type": "java",
-            "name": "total - Application",
-            "request": "launch",
-            "mainClass": "total.Application",
             "projectName": "javaspringsboot"
         },
         {
